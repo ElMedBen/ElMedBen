@@ -8,6 +8,6 @@ This github account is my personnal portfolio , and contains all of the small ac
 * SQL
 * Python and R
 * Keras, Scikit, Scipy, Statsmodel
-* Seequent Oasis Montaj, EMIT Maxwel, Esri ArcGis Pro, Excelis ENVI
+* Seequent Oasis Montaj, EMIT Maxwel, Esri ArcGis Pro, l3harris ENVI
 
 ![Geophysics](https://github.com/ElMedBen/ElMedBen/blob/main/geophysics.jpg)
