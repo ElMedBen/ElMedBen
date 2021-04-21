@@ -4,3 +4,5 @@ My name is **El Mehdi Benammi from Morocco**. I am a geophysicist currently work
 multidiciplinary datasets. I recently fell in love with Machine learning applied to geoscience, thus the reason why i started coding.
 
 This github account is my personnal portfolio , and contains all of the small achivements, my current projets and fulfilled capstones durring my jurney in the world of Data Science and Data analysis.
+
+![Geophysics](https://github.com/ElMedBen/ElMedBen/blob/main/geophysics.jpg)
