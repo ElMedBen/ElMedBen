@@ -7,7 +7,7 @@ This github account is my personnal portfolio , and contains all of the small ac
 # Skills !
 * SQL
 * Python and R
-* Keras, Scikit, Scipy, Statsmodel
+* Keras, Scikit, Scipy, Statsmodel libraries
 * Seequent Oasis Montaj, EMIT Maxwel, Esri ArcGis Pro, l3harris ENVI
 
 
